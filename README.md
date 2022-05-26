@@ -59,9 +59,9 @@ Creative Commons
   - [Polish][pdf-pl]
   - [Portuguese][pdf-pt]
   - [Spanish][pdf-es]
-- To edit and add to the project, visit *The Power of Open* wiki
-  -- http://wiki.creativecommons.org/The_Power_of_Open -- or see
-  the included files, text.wiki and text.md
+- To edit and add to the project, visit [The Power of Open - Creative Commons
+  Wiki](http://wiki.creativecommons.org/The_Power_of_Open) or see the included
+  files, [`text.wiki`](text.wiki) and [`text.md`](text.md)
 - An [ePub version of the book][epub-en] was created by Martin Holland.
 - It is also available as a [Mobipocket file][mobi-en].
 - A text-to-speech audio version of the book was created by Mada
