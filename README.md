@@ -122,7 +122,7 @@ Commons Japan.
 
 [![CC BY 3.0 license button][cc-by-png]][cc-by]
 
-[`COPYINdG`](COPYING): Except where otherwise noted, content in The Power of Open is licensed under a [Creative Commons Attribution 3.0 License][cc-by].
+[`COPYING`](COPYING): Except where otherwise noted, content in The Power of Open is licensed under a [Creative Commons Attribution 3.0 License][cc-by].
 
 [cc-by-png]: https://licensebuttons.net/l/by/3.0/88x31.png#floatleft "CC BY 3.0 license button"
 [cc-by]: https://creativecommons.org/licenses/by/3.0/ "Creative Commons Attribution 3.0 Unported License"
