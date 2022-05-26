@@ -50,24 +50,36 @@ Creative Commons
 
 - *The Power of Open* is available for PDF download in a variety
   of languages:
-  - [Chinese](the-power-of-open.cn.pdf)
-  - [English](the-power-of-open.en.pdf)
-  - [French](the-power-of-open.fr.pdf)
-  - [German](the-power-of-open.de.pdf)
-  - [Japanese](the-power-of-open.jp.pdf)
-  - [Korean](the-power-of-open.kr.pdf)
-  - [Polish](the-power-of-open.pl.pdf)
-  - [Portuguese](the-power-of-open.pt.pdf)
-  - [Spanish](the-power-of-open.es.pdf)
+  - [Chinese][pdf-cn]
+  - [English][pdf-en]
+  - [French][pdf-fr]
+  - [German][pdf-de]
+  - [Japanese][pdf-jp]
+  - [Korean][pdf-kr]
+  - [Polish][pdf-pl]
+  - [Portuguese][pdf-pt]
+  - [Spanish][pdf-es]
 - To edit and add to the project, visit *The Power of Open* wiki
   -- http://wiki.creativecommons.org/The_Power_of_Open -- or see
   the included files, text.wiki and text.md
-- An [ePub version of the book](the-power-of-open.en.epub) was created by
-  Martin Holland.
-- It is also available as a [Mobipocket file](the-power-of-open.en.mobi).
+- An [ePub version of the book][epub-en] was created by Martin Holland.
+- It is also available as a [Mobipocket file][mobi-en].
 - A text-to-speech audio version of the book was created by Mada
   (Qatar Assistive Technology Center) using RoboBraille and is
-  available as an [MP3](the-power-of-open.en.mp3).
+  available as an [MP3][mp3-en].
+
+[pdf-cn]: https://github.com/creativecommons/the-power-of-open/raw/repo-guidelines/the-power-of-open.cn.pdf
+[pdf-en]: https://github.com/creativecommons/the-power-of-open/raw/repo-guidelines/the-power-of-open.en.pdf
+[pdf-fr]: https://github.com/creativecommons/the-power-of-open/raw/repo-guidelines/the-power-of-open.fr.pdf
+[pdf-de]: https://github.com/creativecommons/the-power-of-open/raw/repo-guidelines/the-power-of-open.de.pdf
+[pdf-jp]: https://github.com/creativecommons/the-power-of-open/raw/repo-guidelines/the-power-of-open.jp.pdf
+[pdf-kr]: https://github.com/creativecommons/the-power-of-open/raw/repo-guidelines/the-power-of-open.kr.pdf
+[pdf-pl]: https://github.com/creativecommons/the-power-of-open/raw/repo-guidelines/the-power-of-open.pl.pdf
+[pdf-pt]: https://github.com/creativecommons/the-power-of-open/raw/repo-guidelines/the-power-of-open.pt.pdf
+[pdf-es]: https://github.com/creativecommons/the-power-of-open/raw/repo-guidelines/the-power-of-open.es.pdf
+[epub-en]: https://github.com/creativecommons/the-power-of-open/raw/repo-guidelines/the-power-of-open.en.epub
+[mobi-en]: https://github.com/creativecommons/the-power-of-open/raw/repo-guidelines/the-power-of-open.en.mobi
+[mp3-en]: https://github.com/creativecommons/the-power-of-open/raw/repo-guidelines/the-power-of-open.en.mp3
 
 
 ## Supporters
